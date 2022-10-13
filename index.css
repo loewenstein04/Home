@@ -1,0 +1,36 @@
+body{
+    background: radial-gradient(#999999,#555555) no-repeat;
+    background-size: 1500px 1000px;
+}
+h1{
+    color: white;
+    text-shadow: 12px 2px 5px #000000, -8px 2px 5px #888888;
+    position: relative;
+    left: 1050px;
+}
+.a{
+    position: relative;
+    left: 1060px;
+    top: -190px;
+}
+.b img{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 150px;
+    top: -205px;
+}
+h2{
+    margin-left: 100px;
+}
+.pa{
+    width: 500px;
+    margin-left: 60px;
+    text-indent: 50px;
+    text-align: justify;
+}
+.pb{
+    width: 500px;
+    position: relative;
+    left: 100px;
+}
